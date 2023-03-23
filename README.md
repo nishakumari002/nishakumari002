@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nisha</h1>
+<h1 align="center">Hi 👋, I'm Nisha.</h1>
 <h3 align="center">I am coding enthusiastic.</h3>
 <img align="right" width=400 alt="coding"src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1764deff-10f7-4e4d-b93d-c904f1606347/d8z4qwp-15fa4803-2b60-44bc-825b-cddc0bd84dbc.jpg/v1/fill/w_1024,h_1024,q_75,strp/lazy_day_by_kotikomori_d8z4qwp-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcLzE3NjRkZWZmLTEwZjctNGU0ZC1iOTNkLWM5MDRmMTYwNjM0N1wvZDh6NHF3cC0xNWZhNDgwMy0yYjYwLTQ0YmMtODI1Yi1jZGRjMGJkODRkYmMuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.I2M414_zStGJZxprvD0o54Zr76QDicd8w9TUGxFDqKw"
 
